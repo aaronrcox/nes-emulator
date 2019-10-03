@@ -5,9 +5,6 @@ Currently supports:
  - Load in a *.nes rom file
  - Print 6502 instructions that are stored in the rom file.
 
-Bugs:
- - Unable to correctly print desired instruction set, i believe may be an error with correctly loading the rom file, or may be an error in parsing each instruction moving to the next.
-
 
 # Project Requirements
 
